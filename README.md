@@ -21,4 +21,5 @@ Name | Points
 ## crypto
 Name | Points
 -----|--------
+[caesar_salad_edition](caesar_salad_edition/README.md) | 50
 [apple_cider_vinegar](apple_cider_vinegar/README.md) | 100
