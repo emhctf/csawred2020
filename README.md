@@ -17,6 +17,7 @@ Name | Points
 Name | Points
 -----|--------
 [feast](feast/README.md) | 25
+[helpme](helpme/README.md) | 50
 
 ## crypto
 Name | Points
