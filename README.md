@@ -6,6 +6,7 @@ Name | Points
 [lens_of_truth](lens_of_truth/README.md) | 25
 [traverse_1](traverse_1/README.md) | 50
 [traverse_2](traverse_2/README.md) | 75
+[traverse_3](traverse_3/README.md) | 100
 
 ## misc
 Name | Points
