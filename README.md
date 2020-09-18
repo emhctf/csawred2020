@@ -17,3 +17,8 @@ Name | Points
 Name | Points
 -----|--------
 [feast](feast/README.md) | 25
+
+## crypto
+Name | Points
+-----|--------
+[apple_cider_vinegar](apple_cider_vinegar/README.md) | 100
