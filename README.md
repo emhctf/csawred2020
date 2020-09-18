@@ -12,3 +12,8 @@ Name | Points
 Name | Points
 -----|--------
 [R_U_Awake](R_U_Awake/README.md) | 1
+
+## pwn
+Name | Points
+-----|--------
+[feast](feast/README.md) | 25
