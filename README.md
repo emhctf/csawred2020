@@ -8,6 +8,7 @@ Name | Points
 [traverse_1](traverse_1/README.md) | 50
 [traverse_2](traverse_2/README.md) | 75
 [traverse_3](traverse_3/README.md) | 100
+[jwt](jwt/README.md) | 150
 
 ## misc
 Name | Points
