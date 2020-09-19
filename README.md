@@ -21,6 +21,7 @@ Name | Points
 -----|--------
 [feast](feast/README.md) | 25
 [helpme](helpme/README.md) | 50
+[lvl_1_spellcode](lvl_1_spellcode/README.md) | 100
 [prisonbreak](prisonbreak/README.md) | 125
 
 ## crypto
