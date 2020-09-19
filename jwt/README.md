@@ -1,3 +1,3 @@
 # jwt
 ###### [Back](../README.md)
-###### [Solution]("solution.py")
+###### [Solution](solution.py)
