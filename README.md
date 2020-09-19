@@ -29,6 +29,7 @@ Name | Points
 Name | Points
 -----|--------
 [caesar_salad_edition](caesar_salad_edition/README.md) | 50
+[unary_binary](unary_binary/README.md) | 100
 [babyrsa](babyrsa/README.md) | 100
 [apple_cider_vinegar](apple_cider_vinegar/README.md) | 100
 
