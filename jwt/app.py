@@ -50,6 +50,7 @@ def index():
     return resp
 
 @app.route('/<filename>')
+@app.route('/static/<filename>')
 def get_file(filename):
     try:
         # try to decode token
@@ -68,7 +69,7 @@ def get_file(filename):
 
     # check if we have access for file
     if json['filename'] == filename:
-        return redirect(url_for('static', filename=filename))
+        return app.send_static_file(filename)
     else:
         # we're trying to access a file without correct token
         return "401 unauthorized", 401

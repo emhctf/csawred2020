@@ -33,8 +33,8 @@ Name | Points
 [unary_binary](unary_binary/README.md) | 100
 [babyrsa](babyrsa/README.md) | 100
 [apple_cider_vinegar](apple_cider_vinegar/README.md) | 100
-
 [teenrsa](teenrsa/README.md) | 150
+
 ## rev
 Name | Points
 -----|--------
