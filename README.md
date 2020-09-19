@@ -24,6 +24,7 @@ Name | Points
 [helpme](helpme/README.md) | 50
 [lvl_1_spellcode](lvl_1_spellcode/README.md) | 100
 [prisonbreak](prisonbreak/README.md) | 125
+[lvl_2_spellcode](lvl_2_spellcode/README.md) | 200
 
 ## crypto
 Name | Points
