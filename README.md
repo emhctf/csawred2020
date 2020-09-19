@@ -30,3 +30,7 @@ Name | Points
 [apple_cider_vinegar](apple_cider_vinegar/README.md) | 100
 
 [teenrsa](teenrsa/README.md) | 150
+## rev
+Name | Points
+-----|--------
+[recursive](recursive/README.md) | 150
