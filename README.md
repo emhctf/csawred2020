@@ -13,6 +13,7 @@ Name | Points
 Name | Points
 -----|--------
 [R_U_Awake](R_U_Awake/README.md) | 1
+[back_to_the_future](back_to_the_future/README.md) | 50
 [cat](cat/README.md) | 50
 
 ## pwn
