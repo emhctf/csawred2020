@@ -26,9 +26,9 @@ Name | Points
 [lvl_1_spellcode](lvl_1_spellcode/README.md) | 100
 [prisonbreak](prisonbreak/README.md) | 125
 [lvl_2_spellcode](lvl_2_spellcode/README.md) | 200
-[lvl_3_spellcode](lvl_3_spellcode/README.md) | 250
 [worstcodeever](worstcodeever/README.md) | 250
 [partycreation](partycreation/README.md) | 250
+[lvl_3_spellcode](lvl_3_spellcode/README.md) | 350
 
 ## crypto
 Name | Points
