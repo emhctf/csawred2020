@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Sep 20 18:58:01 2020
+Invocation: foremost -i alert.png 
+Output directory: /root/Desktop/csawred2020/alert/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: alert.png
+Start: Sun Sep 20 18:58:01 2020
+Length: 66 KB (68039 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      66 KB 	          0 	  (600 x 280)
+Finish: Sun Sep 20 18:58:01 2020
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Sep 20 18:58:01 2020
