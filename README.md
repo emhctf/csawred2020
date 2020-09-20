@@ -42,6 +42,7 @@ Name | Points
 ## rev
 Name | Points
 -----|--------
+[concrete_trap](concrete_trap/README.md) | 100
 [recursive](recursive/README.md) | 150
 
 [spaghetti](spaghetti/README.md) | 200
