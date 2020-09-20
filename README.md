@@ -41,3 +41,5 @@ Name | Points
 Name | Points
 -----|--------
 [recursive](recursive/README.md) | 150
+
+[spaghetti](spaghetti/README.md) | 200
