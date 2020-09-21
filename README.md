@@ -4,6 +4,7 @@
 Name | Points
 -----|--------
 [lens_of_truth](lens_of_truth/README.md) | 25
+[robots](robots/README.md) | 50
 [calculator_app](calculator_app/README.md) | 50
 [traverse_1](traverse_1/README.md) | 50
 [traverse_2](traverse_2/README.md) | 75
