@@ -10,6 +10,7 @@ Name | Points
 [traverse_2](traverse_2/README.md) | 75
 [traverse_3](traverse_3/README.md) | 100
 [jwt](jwt/README.md) | 150
+[whitespace](whitespace/README.md) | 200
 [traefik](traefik/README.md) | 250
 
 ## misc
