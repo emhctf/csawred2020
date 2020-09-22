@@ -20,6 +20,7 @@ Name | Points
 [header_start](header_start/README.md) | 50
 [back_to_the_future](back_to_the_future/README.md) | 50
 [cat](cat/README.md) | 50
+[super_sonic](super_sonic/README.md) | 75
 [alert](alert/README.md) | 150
 
 ## pwn
