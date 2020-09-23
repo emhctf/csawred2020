@@ -21,6 +21,7 @@ Name | Points
 [back_to_the_future](back_to_the_future/README.md) | 50
 [cat](cat/README.md) | 50
 [super_sonic](super_sonic/README.md) | 75
+[big_world](big_world/README.md) | 150
 [alert](alert/README.md) | 150
 
 ## pwn
