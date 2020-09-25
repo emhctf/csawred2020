@@ -17,6 +17,7 @@ Name | Points
 Name | Points
 -----|--------
 [R_U_Awake](R_U_Awake/README.md) | 1
+[recovery](recovery/README.md) | 50
 [animal_friendship](animal_friendship/README.md) | 50
 [header_start](header_start/README.md) | 50
 [back_to_the_future](back_to_the_future/README.md) | 50
