@@ -46,6 +46,7 @@ Name | Points
 [babyrsa](babyrsa/README.md) | 100
 [apple_cider_vinegar](apple_cider_vinegar/README.md) | 100
 [teenrsa](teenrsa/README.md) | 150
+[mindreader](mindreader/README.md) | 250
 
 ## rev
 Name | Points
