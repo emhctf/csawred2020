@@ -27,6 +27,7 @@ Name | Points
 [alert](alert/README.md) | 150
 [otherplane](otherplane/README.md) | 200
 [hack-a-mole](hack-a-mole/README.md) | 250
+[fabricator](fabricator/README.md) | 375
 
 ## pwn
 Name | Points
