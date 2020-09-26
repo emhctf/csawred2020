@@ -26,6 +26,7 @@ Name | Points
 [big_world](big_world/README.md) | 150
 [alert](alert/README.md) | 150
 [otherplane](otherplane/README.md) | 200
+[hack-a-mole](hack-a-mole/README.md) | 250
 
 ## pwn
 Name | Points
