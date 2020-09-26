@@ -3,7 +3,7 @@ import claripy
 
 OFFSET = 0x400000
 
-BASE = 0x1000 + OFFSET
+BASE = 0x0000 + OFFSET
 FUNC = 0x1145 + OFFSET
 FIND = 0x1286 + OFFSET
 AVID = 0x127a + OFFSET
@@ -16,8 +16,5 @@ state = proj.factory.call_state(FUNC, claripy.BVS("first", 32), claripy.BVS("sec
 simgr = proj.factory.simulation_manager(state)
 simgr.explore(find=FIND, avoid=AVID)
 
-
-print(proj.factory.block(OFFSET + 0x1140).vex.pp())
 print(simgr.errored)
-
-
+print(hex(simgr.errored[0].state.addr))
