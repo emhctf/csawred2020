@@ -25,6 +25,7 @@ Name | Points
 [super_sonic](super_sonic/README.md) | 75
 [big_world](big_world/README.md) | 150
 [alert](alert/README.md) | 150
+[otherplane](otherplane/README.md) | 200
 
 ## pwn
 Name | Points
