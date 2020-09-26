@@ -1,9 +1,23 @@
 import angr
-proj = angr.Project('concrete_trap')
-state = proj.factory.call_state(0x400b3b)
-state.regs.rbp = 0x100
-simgr = proj.factory.simgr(state)
-simgr.explore()
-simgr.deadended[1].stack_read(-0x10, 4, False)
-a = simgr.deadended[1].stack_read(-0x20, 4, False)
-print(a)
+import claripy
+
+OFFSET = 0x400000
+
+BASE = 0x1000 + OFFSET
+FUNC = 0x1145 + OFFSET
+FIND = 0x1286 + OFFSET
+AVID = 0x127a + OFFSET
+
+proj = angr.Project("./stage3final", main_opts={'base_addr': BASE})
+
+
+state = proj.factory.call_state(FUNC, claripy.BVS("first", 32), claripy.BVS("second", 32), claripy.BVS("third", 32), claripy.BVS("fourth", 32), claripy.BVS("fifth", 32))
+
+simgr = proj.factory.simulation_manager(state)
+simgr.explore(find=FIND, avoid=AVID)
+
+
+print(proj.factory.block(OFFSET + 0x1140).vex.pp())
+print(simgr.errored)
+
+
