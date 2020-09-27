@@ -1,0 +1,11 @@
+
+Two hashes
+
+MD5 collision
+
+they need to be different strings as specified by
+the SHA-256
+
+
+memcpy on ID1 
+
