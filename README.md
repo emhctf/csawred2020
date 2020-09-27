@@ -61,5 +61,4 @@ Name | Points
 [recursive](recursive/README.md) | 150
 [parasprite](parasprite/README.md) | 200
 [cracked](cracked/README.md) | 300
-
 [spaghetti](spaghetti/README.md) | 200
