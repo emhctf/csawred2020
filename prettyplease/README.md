@@ -8,7 +8,7 @@
 
 Starting off, we see that it uses AES-CTR, another one of those AES stream
 ciphers. Looking carefully at the code, w see that it always returns `b"your
-application has been REJECTED".  
+application has been REJECTED".`  
 We also see that the when encrypting a message, they append the IV on the front
 for decryption. If we ask for any arbitrary message, and then take the output
 and xor it with the rejected message, we should get the key. By generating
