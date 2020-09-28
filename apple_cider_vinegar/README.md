@@ -1,6 +1,10 @@
 # apple_cider_vinegar
 ###### [Back](../README.md)
 
+## Challenge
+[Ciphertext](ciphertext.txt)
+
+
 The challenge gives some encrypted text. Looking at it carefully, we see
 something in the format of a flag:  
 `ysiy{W1x3r3ro_V1wp3j}`  
@@ -15,4 +19,4 @@ Looking at the ciphertext and the first paragraph carefully, we notice that the
 spaces match. Assuming it is the plaintext, we can use
 [decode.fr](https://www.dcode.fr/vigenere-cipher). Selecting `Knowing
 a Plaintext Word` and putting in the longest word, `fermentation`, the
-decrypted version spits out and we have the flag.
+decrypted version spits out and we have the flag: `flag{V1g3n3re_C1ph3r}` 

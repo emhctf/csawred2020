@@ -6,10 +6,6 @@ from Crypto.Random import get_random_bytes
 key = get_random_bytes(16)
 iv = get_random_bytes(16)
 
-print(key)
-
-print(iv)
-
 def get_secret_message():
     try:
         with open("flag.txt") as f:
