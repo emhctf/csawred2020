@@ -3,7 +3,7 @@
 
 ## Challenge
 [Ciphertext](ciphertext.txt)
-
+  
 
 The challenge gives some encrypted text. Looking at it carefully, we see
 something in the format of a flag:  
